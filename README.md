@@ -8,8 +8,6 @@
 Hello, my name is João Queiroz.
 I am a programmer and currently studying Systems Analysis and Development at FIAP, I study and develop in Python, Java and JavaScript programming languages.
 
-##### Tecnologias que conheço
-
 
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XxJoaoQueirozxX)](https://github.com/XxJoaoQueirozxX)
