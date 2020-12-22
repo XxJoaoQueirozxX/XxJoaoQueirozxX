@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://topview.com.br/wp-content/uploads/2019/07/art-astronomy-atmosphere-360912-1132x670.jpg">
 
-<!--
-**XxJoaoQueirozxX/XxJoaoQueirozxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
+## I'm João Queiroz!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hello, my name is João Queiroz.
+I am a programmer and currently studying Systems Analysis and Development at FIAP, I study and develop in Python, Java and JavaScript programming languages.
+
+##### Tecnologias que conheço
+
+
+## About me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XxJoaoQueirozxX)](https://github.com/XxJoaoQueirozxX)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovpqueiroz/)](https://www.linkedin.com/in/joaovpqueiroz/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511999434808&text=Hello!)](https://api.whatsapp.com/send?phone=5511999434808&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovic.pqueiroz@gmail.com)](mailto:joaovic.pqueiroz@gmail.com)
+
