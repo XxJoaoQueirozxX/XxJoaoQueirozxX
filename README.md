@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://topview.com.br/wp-content/uploads/2019/07/art-astronomy-atmosphere-360912-1132x670.jpg">
+<img align="right" width="400" height="400" src="https://avatars.githubusercontent.com/u/55325674?s=400&u=68ea91c9e4b915d90ea4dcb9d9db50c4d65ab6ba&v=4">
 
 # Welcome!
 
