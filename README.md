@@ -3,7 +3,7 @@
 ## About me
 
 Hello, my name is João Queiroz.
-I am a programmer and currently studying Systems Analysis and Development at FIAP, I study and develop in Python, Java and JavaScript programming languages.
+I am a programmer, passionate about mathematics and problem solving, graduated in systems analysis and development from FIAP, I discovered a passion for technology in 2019 while taking a Pro Profession course in information technology at Escola Politecnica da Universidade de São Paulo, I currently work as a Java Backend Developer.
 
 ## Technologies That I Know
 
